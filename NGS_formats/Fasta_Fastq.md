@@ -38,7 +38,6 @@ GATCGATCGATCGATCGATCGATCGATCGATCGATCGATCGATCG
 - Partage de séquences entre chercheurs
 - Base de données génomiques
 
-![Structure du format FASTA](https://i.imgur.com/G5M1OUy.png)
 
 ## Le format FASTQ
 
@@ -86,7 +85,6 @@ Plusieurs encodages existent pour les scores de qualité :
 - **Phred+64** (Illumina 1.3+) : ASCII 64-126
 - **Phred+33 v2** (Illumina 1.8+) : ASCII 33-74
 
-![Encodage des scores de qualité](https://i.imgur.com/5JxnYmh.png)
 
 ### Caractéristiques du format FASTQ
 
@@ -122,7 +120,6 @@ Plusieurs encodages existent pour les scores de qualité :
 3. Alignement sur un génome de référence (FASTA)
 4. Analyse en aval (variant calling, RNA-Seq, etc.)
 
-![Flux de travail NGS](https://i.imgur.com/2TqRplt.png)
 
 ## Exemples pratiques
 
